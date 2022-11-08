@@ -13,5 +13,8 @@
 - 회원 정보 수정
 - 비동기 회원 검색 가능
 
-### 사용 언어
-<img alt="Html" src ="https://img.shields.io/badge/HTML5.svg?&style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
+### 사용 
+- JavaScript
+- AJAX
+- JAVA
+- Servlet
